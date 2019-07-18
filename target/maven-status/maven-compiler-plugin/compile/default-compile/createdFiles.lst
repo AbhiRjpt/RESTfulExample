@@ -1,0 +1,4 @@
+com/ranaji/rest/JSONService.class
+com/ranaji/Book.class
+com/ranaji/client/JerseyClientPost.class
+com/ranaji/client/JerseyClientGet.class
